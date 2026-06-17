@@ -10,9 +10,9 @@ I share the process on [X](https://x.com/sunilbuilds).
 [![Portfolio](https://img.shields.io/badge/Portfolio-sunilk02.vercel.app-7aa2f7?style=flat-square&logo=vercel&logoColor=white)](https://sunilk02.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-chthonn-181717?style=flat-square&logo=github)](https://github.com/chthonn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sunilk02-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunilk02/)
-[![Blog](https://img.shields.io/badge/Blog-shunnu.hashnode.dev-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://shunnu.hashnode.dev)
+[![Blog](https://img.shields.io/badge/Blog-shunnu.hashnode.dev-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://coldstartx.hashnode.dev/)
 
-I write about what I'm learning at [shunnu.hashnode.dev](https://shunnu.hashnode.dev) - Go, and systems concepts mostly.
+I write about what I'm learning at [shunnu.hashnode.dev](https://coldstartx.hashnode.dev/) - Go, and systems concepts mostly.
 
 ## Experience
 
