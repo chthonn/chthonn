@@ -1,8 +1,8 @@
 # Sunil Kumar
 
-### Full-Stack Developer | JavaScript · TypeScript · Go | Learning in public
+### Full-Stack Developer | JavaScript · TypeScript · Go | Systems | Learning in public
 
-I build full-stack products and AI tooling - real-time apps, RAG pipelines, and developer tools.
+I build full-stack products - real-time apps, RAG.
 I share the process on [X](https://x.com/sunilbuilds).
 
 
