@@ -12,7 +12,7 @@ I share the process on [X](https://x.com/sunilbuilds).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sunilk02-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunilk02/)
 [![Blog](https://img.shields.io/badge/Blog-shunnu.hashnode.dev-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://coldstartx.hashnode.dev/)
 
-I write about what I'm learning at [shunnu.hashnode.dev](https://coldstartx.hashnode.dev/) - Go, and systems concepts mostly.
+I write about what I'm learning at [coldstartx.hashnode.dev](https://coldstartx.hashnode.dev/) - Go, and systems concepts mostly.
 
 ## Experience
 
